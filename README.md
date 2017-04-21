@@ -1,1 +1,1 @@
-# smartPortfolio
+# Skeleton project for Swagger
